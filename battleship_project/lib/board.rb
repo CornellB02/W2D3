@@ -68,11 +68,6 @@ class Board
     def print 
         Board.print_grid(hidden_ships_grid)
     end
-    
-
-    
-    
-
 
 
 end
