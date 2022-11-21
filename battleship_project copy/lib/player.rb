@@ -1,6 +1,4 @@
 class Player
 
-   
-
 end
  
